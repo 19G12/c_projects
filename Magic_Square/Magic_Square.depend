@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1603117075 source:c:\udemy_c\magic_square\main.c
+	<stdio.h>
+

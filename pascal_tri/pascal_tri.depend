@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602882367 source:c:\udemy_c\pascal_tri\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+

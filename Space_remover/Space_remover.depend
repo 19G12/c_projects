@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603299848 source:c:\udemy_c\space_remover\main.c
+	<stdio.h>
+	<string.h>
+

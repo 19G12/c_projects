@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604495677 source:c:\udemy_c\2_darray_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

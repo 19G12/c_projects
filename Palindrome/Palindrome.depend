@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603218304 source:c:\udemy_c\palindrome\main.c
+	<stdio.h>
+	<string.h>
+

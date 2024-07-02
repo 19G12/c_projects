@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602739167 source:c:\udemy_c\physics_a\main.c
+	<stdio.h>
+	<stdlib.h>
+

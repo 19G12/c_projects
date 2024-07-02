@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602913883 source:c:\udemy_c\floyd_tri\main.c
+	<stdio.h>
+	<stdlib.h>
+

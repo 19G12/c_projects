@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603310435 source:c:\udemy_c\frequency_number\main.c
+	<stdio.h>
+	<string.h>
+

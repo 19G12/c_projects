@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603456454 source:c:\udemy_c\rock_paper_scissor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
